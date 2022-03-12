@@ -93,7 +93,7 @@ for s in spines:
 
 ax2 = fig.add_axes([0.12, 0.90, 0.025, 0.025])  # badge
 ax2.axis("off")
-url = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1280px-Flag_of_Bahrain.svg.png"
+url = "https://www.worldatlas.com/img/flag/bh-flag.jpg"
 response = requests.get(url)
 img = Image.open(BytesIO(response.content))
 ax2.imshow(img)
