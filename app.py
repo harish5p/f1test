@@ -107,5 +107,5 @@ fig.text(
     fontfamily=body_font,
 )
 
-plt.tight_layout
+tightlayout = plt.tight_layout
 st.pyplot(fig)
