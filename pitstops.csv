@@ -1,0 +1,21 @@
+team,driver,time,lap,color,colorblind
+McLaren,Ricciardo,2.31,17,#ff7518,#f58231
+Ferrari,Sainz,2.33,14,#d40000,#e6194b
+Ferrari,Sainz,2.4,33,#d40000,#e6194b
+Alpine,Ocon,2.46,43,#ff0783,#f032e6
+Williams,Latifi,2.47,14,#00009c,#000075
+McLaren,Norris,2.49,24,#ff7518,#f58231
+Alpine,Alonso,2.53,42,#ff0783,#f032e6
+Ferrari,Leclerc,2.54,31,#d40000,#e6194b
+Ferrari,Sainz,2.58,44,#d40000,#e6194b
+McLaren,Ricciardo,2.58,33,#N/A,#f58231
+AlphaTauri,Tsunoda,2.62,44,#5090a0,#dcbeff
+Red Bull,Verstappen,2.62,43,#ffff00,#ffe119
+Red Bull,Perez,2.63,33,#ffff00,#ffe119
+Williams,Albon,2.7,13,#00009c,#000075
+McLaren,Ricciardo,2.76,44,#ff7518,#f58231
+AlphaTauri,Tsunoda,2.77,29,#5090a0,#dcbeff
+AlphaTauri,Gasly,2.78,14,#5090a0,#dcbeff
+Aston Martin,Stroll,2.8,45,#00ff00,#3cb44b
+Ferrari,Leclerc,2.81,46,#d40000,#e6194b
+Williams,Latifi,2.85,32,#00009c,#000075
