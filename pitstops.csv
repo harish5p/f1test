@@ -1,0 +1,21 @@
+team,driver,time,lap,color,colorblind,,,,,Team,Color,Colorblind
+McLaren,Ricciardo,2.31,17,#ff7518,#E97335,,,,,Ferrari,#d40000,#EA4929
+Ferrari,Sainz,2.33,14,#d40000,#EA4929,,,,,Red Bull,#ffff00,#D8B430
+Ferrari,Sainz,2.4,33,#d40000,#EA4929,,,,,Mercedes,#26fae4,#59BEE3
+Alpine,Ocon,2.46,43,#ff0783,#F042B7,,,,,Haas,#ffffff,#CC2F56
+Williams,Latifi,2.47,14,#00009c,#43249A,,,,,Alfa Romeo,#800000,#A21E2C
+McLaren,Norris,2.49,24,#ff7518,#E97335,,,,,AlphaTauri,#5090a0,#937FB2
+Alpine,Alonso,2.53,42,#ff0783,#F042B7,,,,,Alpine,#ff0783,#F042B7
+Ferrari,Leclerc,2.54,31,#d40000,#EA4929,,,,,McLaren,#ff7518,#E97335
+McLaren,Ricciardo,2.58,33,#ff7518,#E97335,,,,,Aston Martin,#00ff00,#274B24
+Ferrari,Sainz,2.58,44,#d40000,#EA4929,,,,,Williams,#00009c,#43249A
+Red Bull,Verstappen,2.62,43,#ffff00,#D8B430,,,,,,,
+AlphaTauri,Tsunoda,2.62,44,#5090a0,#937FB2,,,,,,,
+Red Bull,Perez,2.63,33,#ffff00,#D8B430,,,,,,,
+Williams,Albon,2.7,13,#00009c,#43249A,,,,,,,
+McLaren,Ricciardo,2.76,44,#ff7518,#E97335,,,,,,,
+AlphaTauri,Tsunoda,2.77,29,#5090a0,#937FB2,,,,,,,
+AlphaTauri,Gasly,2.78,14,#5090a0,#937FB2,,,,,,,
+Aston Martin,Stroll,2.8,45,#00ff00,#274B24,,,,,,,
+Ferrari,Leclerc,2.81,46,#d40000,#EA4929,,,,,,,
+Williams,Latifi,2.85,32,#00009c,#43249A,,,,,,,
