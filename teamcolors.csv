@@ -1,11 +1,11 @@
-Team,Color
-Ferrari,#e6194b
-Red Bull Racing RBPT,#000099
-Mercedes,#00c0bf
-McLaren Mercedes,#f58231
-Alfa Romeo Ferrari,#800000
-Alpine Renault,#ff0783
-AlphaTauri RBPT,#00293f
-Haas Ferrari,#ffffff
-Aston Martin Aramco Mercedes,#3cb44b
-Williams Mercedes,#4363d8
+Team,Color,Teamalt
+Ferrari,#e6194b,Ferrari
+Red Bull Racing RBPT,#000099,Red Bull
+Mercedes,#00c0bf, Mercedes
+McLaren Mercedes,#f58231,McLaren
+Alfa Romeo Ferrari,#800000,Alfa Romeo
+Alpine Renault,#ff0783,Alpine
+AlphaTauri RBPT,#00293f,AlphaTauri
+Haas Ferrari,#ffffff,Haas
+Aston Martin Aramco Mercedes,#3cb44b,Aston Martin
+Williams Mercedes,#4363d8,Williams
