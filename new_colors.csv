@@ -7,8 +7,8 @@ LEC,FER,#a6051a,#e6194b,#e6194b
 SAI,FER,#a6051a,#e6194b,#e6194b
 NOR,MCL,#ff8000,#f58231,#f58231
 RIC,MCL,#ff8000,#f58231,#f58231
-OCO,APN,#fd4bc7,#ff0783,#f032e6
-ALO,APN,#fd4bc7,#ff0783,#f032e6
+OCO,APN,#fd4bc7,#f032e6,#f032e6
+ALO,APN,#fd4bc7,#f032e6,#f032e6
 GAS,APT,#00293f,#00293f,#dcbeff
 TSU,APT,#00293f,#00293f,#dcbeff
 STR,AMR,#00352f,#3cb44b,#3cb44b
@@ -23,7 +23,7 @@ DEV,MER,#c6c6c6,#00c0bf,#00c0bf
 MAG,HAA,#ffffff,#ffffff,#ffffff
 GIO,ARR,#981e32,#800000,#800000
 RAI,ARR,#981e32,#800000,#800000
-MAZ,HAA,#ffffff,#ffffff,#fffac8
+MAZ,HAA,#ffffff,#ffffff,#ffffff
 HUL,AMR,#00352f,#3cb44b,#3cb44b
 VER,Red Bull Racing,#121f45,#000099,#ffe119
 ALB,Williams,#041e42,#4363d8,#4363d8
