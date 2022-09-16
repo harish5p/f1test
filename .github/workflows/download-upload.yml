@@ -1,0 +1,16 @@
+name: Update File
+on:
+  push:
+    branches:
+      - master
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: wow-actions/download-upload@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          url: http://ergast.com/downloads/f1db_csv.zip
+          dir: 
+          filename: zipfile
