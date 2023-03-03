@@ -6,36 +6,16 @@ PER,RBR,#121f45,#000099,#ffe119
 LEC,FER,#a6051a,#e6194b,#e6194b
 SAI,FER,#a6051a,#e6194b,#e6194b
 NOR,MCL,#ff8000,#f58231,#f58231
-RIC,MCL,#ff8000,#f58231,#f58231
+PIA,MCL,#ff8000,#f58231,#f58231
 OCO,APN,#fd4bc7,#f032e6,#f032e6
-ALO,APN,#fd4bc7,#f032e6,#f032e6
-GAS,APT,#00293f,#00293f,#dcbeff
+GAS,APN,#fd4bc7,#f032e6,#f032e6
+DEV,APT,#00293f,#00293f,#dcbeff
 TSU,APT,#00293f,#00293f,#dcbeff
 STR,AMR,#00352f,#3cb44b,#3cb44b
-VET,AMR,#00352f,#3cb44b,#3cb44b
+ALO,AMR,#00352f,#3cb44b,#3cb44b
 ALB,WIL,#041e42,#4363d8,#4363d8
-LAT,WIL,#041e42,#4363d8,#4363d8
+SAR,WIL,#041e42,#4363d8,#4363d8
 BOT,ARR,#981e32,#800000,#800000
 ZHO,ARR,#981e32,#800000,#800000
-MSC,HAA,#ffffff,#ffffff,#ffffff
-KUB,ARR,#981e32,#800000,#800000
-DEV,WIL,#c6c6c6,#4363d8,#4363d8
 MAG,HAA,#ffffff,#ffffff,#ffffff
-GIO,ARR,#981e32,#ffffff,#ffffff
-RAI,ARR,#981e32,#800000,#800000
-MAZ,HAA,#ffffff,#ffffff,#ffffff
-HUL,AMR,#00352f,#3cb44b,#3cb44b
-SHW,FER,#a6051a,#e6194b,#e6194b
-PAL,MCL,#ff8000,#f58231,#f58231
-POU,ARR,#981e32,#800000,#800000
-SAR,WIL,#c6c6c6,#4363d8,#4363d8
-VER,Red Bull Racing,#121f45,#000099,#ffe119
-ALB,Williams,#041e42,#4363d8,#4363d8
-VET,Aston Martin,#00352f,#3cb44b,#3cb44b
-MSC,Haas F1 Team,#ffffff,#ffffff,#ffffff
-BOT,Alfa Romeo,#981e32,#800000,#800000
-LEC,Ferrari,#a6051a,#e6194b,#e6194b
-HAM,Mercedes,#c6c6c6,#00c0bf,#00c0bf
-OCO,Alpine,#fd4bc7,#ff0783,#f032e6
-NOR,McLaren,#ff8000,#f58231,#f58231
-TSU,AlphaTauri,#00293f,#00293f,#dcbeff
+HUL,HAA,#ffffff,#ffffff,#ffffff
